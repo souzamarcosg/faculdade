@@ -10,7 +10,6 @@ public class AdivinheAnimal {
 
     
     public static void main(String[] args) {
-        // TODO code application logic here
         Scanner entrada = new Scanner(System.in);
         char animal;
         
